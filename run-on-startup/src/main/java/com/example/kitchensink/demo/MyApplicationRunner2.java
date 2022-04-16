@@ -13,7 +13,7 @@ public class MyApplicationRunner2 implements ApplicationRunner {
 
     @Override
     public void run(ApplicationArguments args) {
-        log.info("Executed runner1");
+        log.info("Executed runner2");
     }
 }
 

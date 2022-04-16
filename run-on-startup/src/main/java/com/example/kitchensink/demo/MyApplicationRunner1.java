@@ -8,6 +8,7 @@ import org.springframework.stereotype.Component;
 
 @Slf4j
 @Component
+@Order(1)
 public class MyApplicationRunner1 implements ApplicationRunner {
 
     @Override
